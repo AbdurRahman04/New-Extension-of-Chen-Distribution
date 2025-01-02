@@ -1,1 +1,3 @@
 # New-Extension-of-Chen-Distribution
+
+This study replicates the analysis presented in the original paper on the Weibull-Chen distribution, focusing on its application to model flexible hazard rates. It examines the statistical properties of the distribution and estimates parameters using the maximum likelihood method. A Monte Carlo simulation is conducted to assess estimator performance, ensuring reliability and efficiency. The replication further evaluates the Weibull-Chen distribution against other models using real lifetime datasets, validating its flexibility and effectiveness in capturing diverse hazard rate patterns
